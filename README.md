@@ -8,7 +8,7 @@ Create a virtual machine on a cloud platform and ping it from your local machine
 
 - Cloud Provider: Google Cloud Platform (GCP)
 - OS: Debian GNU/Linux 12 (Bookworm)
-- Machine Type: e2-medium
+- Machine Type: e2-micro
 - External IP: `173.255.118.176`
 
 ## ✅ Files Included
